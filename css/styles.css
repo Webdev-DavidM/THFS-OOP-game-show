@@ -67,7 +67,7 @@ button {
 }
 
 .main-container {
-  background-image: url('../images/oscars.jpg');
+  background-image: url('https://webdev-davidm.github.io/THFS-OOP-game-show/images/oscars.jpg');
   background-repeat: no-repeat;
   background-size:cover;
   background-position: center;
